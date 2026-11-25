@@ -6,8 +6,8 @@ Sitio web corporativo de **FLOA Maquinaria y Construcción S.A. de C.V.**, empre
 radicada en Monterrey, Nuevo León, dedicada a la renta de maquinaria pesada,
 movimiento de tierras, transporte de equipo y proyectos llave en mano.
 
-- **Demo:** https://edgarleonarchuleta19.github.io/floa-web/
-- **Repositorio:** https://github.com/EdgarLeonArchuleta19/floa-web
+- **Demo:** https://techpointcln.github.io/floa-web/
+- **Repositorio:** https://github.com/TechPointCLN/floa-web
 
 ---
 
@@ -91,7 +91,7 @@ compartidos están en `src/data/company.ts`.
 Requiere Node.js 20 o superior.
 
 ```bash
-git clone https://github.com/EdgarLeonArchuleta19/floa-web.git
+git clone https://github.com/TechPointCLN/floa-web.git
 cd floa-web
 npm install
 npm run dev
